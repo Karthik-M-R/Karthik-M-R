@@ -1,4 +1,4 @@
-# Hi, I'm Karthik 👋
+# Hi, I'm Karthik M R👋
 
 ## Overview
 I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
@@ -13,6 +13,7 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
   <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
   <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
   <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
+  <img alt="Tailwind CSS" height="40" src="https://skillicons.dev/icons?i=tailwind" />
 
   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
   <img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman" />
@@ -26,6 +27,9 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
 </p>
+
+## Contribution Graph
+![Karthik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthik-M-R&theme=github-compact&hide_border=true)
 
 ## Contact
 <p>
