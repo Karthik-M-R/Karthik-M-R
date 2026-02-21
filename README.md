@@ -26,9 +26,7 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
-</p>
 
-> Auth: JWT (JSON Web Token)
 
 ## GitHub Stats
 <p>
@@ -37,12 +35,7 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
     alt="Karthik's GitHub stats"
     height="165"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-M-R&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top languages"
-    height="165"
-  />
-</p>
+
 
 ## Contribution Graph
 <img
