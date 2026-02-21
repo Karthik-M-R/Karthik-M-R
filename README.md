@@ -1,4 +1,4 @@
-# Hi, I'm Karthik M R👋
+# Hi, I'm Karthik 👋
 
 ## Overview
 I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
@@ -28,8 +28,14 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
 </p>
 
+> Auth: JWT (JSON Web Token)
+
 ## Contribution Graph
-![Karthik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthik-M-R&theme=github-compact&hide_border=true)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-M-R&theme=github-compact&hide_border=true"
+  alt="Karthik's GitHub activity graph"
+  width="700"
+/>
 
 ## Contact
 <p>
