@@ -28,13 +28,6 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
 
 
-## GitHub Stats
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Karthik-M-R&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Karthik's GitHub stats"
-    height="165"
-  />
 
 
 ## Contribution Graph
