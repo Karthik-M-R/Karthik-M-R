@@ -1,24 +1,14 @@
 # Hi, I'm Karthik 👋
 
-## Overview
-I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
-
 <!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=Karthik-M-R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-<!-- GitHub stats cards -->
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Karthik-M-R&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Karthik's GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-M-R&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top languages"
-    height="165"
-  />
-</p>
+## Overview
+I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
+
+
+
+
 
 ## Tools & Technologies
 <p>
