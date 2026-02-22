@@ -1,10 +1,8 @@
 # Hi, I'm Karthik 👋
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=Karthik-M-R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 ## Overview
-I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
+I'm a **CSE UG at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development/Software Development & AI** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
 
 
 
@@ -17,12 +15,14 @@ I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interest
   <img alt="Python" height="40" src="https://skillicons.dev/icons?i=py" />
   <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
 
+   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
+    <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
   <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
   <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
-  <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
+ 
   <img alt="Tailwind CSS" height="40" src="https://skillicons.dev/icons?i=tailwind" />
 
-  <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
+ 
   <img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman" />
   <img alt="VS Code" height="40" src="https://skillicons.dev/icons?i=vscode" />
 
