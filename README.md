@@ -2,7 +2,7 @@
 
 
 ## Overview
-I'm a **CSE UG at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development/Software Development & AI** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
+I'm a **CSE student at Bangalore Institute of Technology (BIT)**. I’m interested in **Web Development/Software Development & AI** and love building projects, especially **web apps with AI integration**. I also enjoy exploring modern **AI tools** and I’m aspiring to become an **AI SDE**, with interests in **AI** and **Software Development**.
 
 
 
