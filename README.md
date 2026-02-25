@@ -32,11 +32,7 @@ I'm a **Computer Science Engineering student preparing for AI-Driven  Software D
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
-  <img
-  alt="y"
-  height="40"
-  src="[https://imgs.search.brave.com/z9UHTTyKYoBP1u4yTQXEBiuSZjcg1CUbXAHDjnA_tPY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFuZGxvZ29zLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8xMi9nb29nbGVfYW50aWdyYXZpdHktbG9n/b19icmFuZGxvZ29zLm5ldF9xdTRqYy01/MTJ4NDcyLnBuZw](https://imgs.search.brave.com/GzRKVMSNNlUQHv0ZsRTpEnQqzcPW3ss5J8vriVE-5V0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvZ29v/Z2xlLWFudGlncmF2/aXR5LWxvZ28taWNv/bi5wbmc)"
- />
+
 
 
 
