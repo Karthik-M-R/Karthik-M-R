@@ -7,7 +7,7 @@ I'm a **Computer Science Engineering student preparing for AI-Driven  Software D
 
 
 
-## Tools & Technologies
+##  Languages,Tools & Technologies
 <p>
   <img alt="JavaScript" height="40" src="https://skillicons.dev/icons?i=js" />
   <img alt="TypeScript" height="40" src="https://skillicons.dev/icons?i=ts" />
