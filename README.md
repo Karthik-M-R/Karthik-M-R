@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik)](https://git.io/typing-svg)
 
-## About me
-Write your content here...
-# Hi, I'm Karthik 👋
-
-
 ## Overview
 I'm a **Computer Science Engineering student preparing for AI-Driven  Software Development Engineer roles**. I’m interested in **Web Development/Software Development & AI** and love building projects. I also enjoy exploring modern **AI tools** and strongly interested in building full-stack systems with AI integration, particularly in fintech contexts, and actively exploring practical AI usage through hands-on projects, rapid prototyping, and modern developer workflows.**
 
