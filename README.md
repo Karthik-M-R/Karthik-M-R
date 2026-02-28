@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik)](https://git.io/typing-svg)
+
+## About me
+Write your content here...
 # Hi, I'm Karthik 👋
 
 
