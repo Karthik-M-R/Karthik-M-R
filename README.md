@@ -6,7 +6,6 @@
 * 🚀 Passionate about **building real-world projects**
 * 🤖 Actively exploring **modern AI tools & workflows**
 * 🌐 Focused on **full-stack development with AI integration**
-* 💰 Strong interest in **fintech + AI applications**
 * ⚡ Learning through **hands-on projects & rapid prototyping**
 
 
