@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik)](https://git.io/typing-svg)
 
 ## Overview
-CSE student who loves building things — full-stack apps, AI-integrated systems, and fintech tools. Currently exploring modern AI workflows and developer tooling.
-
+🎓 CSE student focused on AI-driven Software Development Engineer (SDE) roles
+💻 Interested in Web Development, Software Development & AI
+🚀 Passionate about building real-world projects,exploring modern AI tools & workflows
+⚡ Learning through hands-on projects & rapid prototyping
+🌐 Focused on full-stack development with AI integration
 
 
 
