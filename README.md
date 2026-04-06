@@ -18,8 +18,11 @@
   <img alt="Python" height="40" src="https://skillicons.dev/icons?i=py" />
   <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
 
-   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
-    <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
+  <img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
+
+  <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
   <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
   <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  
@@ -36,7 +39,7 @@
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
-
+</p>
 
 
 
