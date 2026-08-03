@@ -19,6 +19,7 @@
   <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
 
   <img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img alt="Supabase" height="40" src="https://skillicons.dev/icons?i=supabase" />
   <img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
 
   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
@@ -37,7 +38,7 @@
 
   <img alt="Vercel" height="40" src="https://skillicons.dev/icons?i=vercel" />
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
-  <img alt="Supabase" height="40" src="https://skillicons.dev/icons?i=supabase" />
+
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
 </p>
