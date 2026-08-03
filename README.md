@@ -37,6 +37,7 @@
 
   <img alt="Vercel" height="40" src="https://skillicons.dev/icons?i=vercel" />
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
+  <img alt="Supabase" height="40" src="https://skillicons.dev/icons?i=supabase" />
 
   <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
 </p>
