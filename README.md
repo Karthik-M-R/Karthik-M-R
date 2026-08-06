@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik+M+R )](https://git.io/typing-svg)
 
 ## Overview
 * 🎓 CSE student focused on **AI-driven Software Development Engineer (SDE) roles**
