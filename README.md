@@ -1,12 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=700&lines=Hi%2C+I+am+Karthik+M+R )](https://git.io/typing-svg)
 
 ## Overview
-* 🎓 CSE student focused on **AI-driven Software Development Engineer (SDE) roles**
-* 💻 Interested in **Web Development, Software Development & AI**
-* 🚀 Passionate about **building real-world projects**
-* 🤖 Actively exploring **modern AI tools & workflows**
-* 🌐 Focused on **full-stack development with AI integration**
-* ⚡ Learning through **hands-on projects & rapid prototyping**
+🎓 Final-year **CSE student** focused on **Software Engineering, Full-Stack Development & AI**
+
+💻 Building with **Java, JavaScript/TypeScript, React, Node.js, Express & PostgreSQL**
+
+🤖 Exploring **AI Engineering** — RAG, LLMs, embeddings, vector databases & AI workflows
+
+🚀 Passionate about building **real-world, end-to-end projects** and learning through hands-on development
+
+🎯 Preparing for **SDE roles** with a strong focus on **DSA, core CS fundamentals & practical AI integration**
+
 
 
 
