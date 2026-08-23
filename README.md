@@ -3,13 +3,15 @@
 ## Overview
 🎓 Final-year **CSE student** focused on **Software Engineering, Full-Stack Development & AI**
 
+🎯 Preparing for **SDE roles** with a strong focus on **DSA, core CS fundamentals & practical AI integration**
+
 💻 Building with **JavaScript/TypeScript, React, Node.js, Express,Java,Python & PostgreSQL,MongoDB**
 
-🤖 Exploring **AI Engineering** — RAG, LLMs, embeddings, vector databases & AI workflows
+🤖 Exploring **AI Engineering** — RAG, LLMs, embeddings, vector databases,LangChain,LangGraph & AI workflows
 
 🚀 Passionate about building **real-world, end-to-end projects** and learning through hands-on development
 
-🎯 Preparing for **SDE roles** with a strong focus on **DSA, core CS fundamentals & practical AI integration**
+
 
 
 
