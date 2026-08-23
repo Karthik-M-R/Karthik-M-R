@@ -3,7 +3,7 @@
 ## Overview
 🎓 Final-year **CSE student** focused on **Software Engineering, Full-Stack Development & AI**
 
-💻 Building with **Java, JavaScript/TypeScript, React, Node.js, Express & PostgreSQL**
+💻 Building with **JavaScript/TypeScript, React, Node.js, Express,Java & PostgreSQL,MongoDB**
 
 🤖 Exploring **AI Engineering** — RAG, LLMs, embeddings, vector databases & AI workflows
 
