@@ -52,12 +52,12 @@
 
 
 
-## Contribution Graph
-<img
+<!--## Contribution Graph/>
+<!-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-M-R&theme=github-compact&hide_border=true"
   alt="Karthik's GitHub activity graph"
   width="700"
-/>
+/> -->
 
 ## Contact
 <p>
