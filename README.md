@@ -3,7 +3,7 @@
 ## Overview
 🎓 Final-year **CSE student** focused on **Software Engineering, Full-Stack Development & AI**
 
-🎯 Preparing for **SDE roles** with a strong focus on **DSA, core CS fundamentals & practical AI integration**
+🎯 Preparing for **SDE roles** with a strong focus on **DSA, System Design, core CS fundamentals & practical AI integration**
 
 💻 Building with **JavaScript/TypeScript, React, Node.js, Express,Java,Python & PostgreSQL,MongoDB**
 
