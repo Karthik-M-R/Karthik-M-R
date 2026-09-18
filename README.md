@@ -69,5 +69,5 @@
   </a>
 </p>
 
-- 💼 LinkedIn: [karthik-mr-714558294](https://www.linkedin.com/in/karthik-mr-714558294/)
+- 💼 LinkedIn: [karthik-mr-714558294](https://www.linkedin.com/in/karthik-m-r-714558294/)
 - 📧 Email: [karthikmr135@gmail.com](mailto:karthikmr135@gmail.com)
