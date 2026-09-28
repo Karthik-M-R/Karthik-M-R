@@ -16,9 +16,9 @@
 
 
 
-##  Languages,Tools & Technologies
+##   🛠️ Tech Stack & Tools
 <p>
- ### 🛠️ Tech Stack & Tools
+
 
 **Languages**  
 <p align="left">
@@ -28,12 +28,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**AI**  
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-Architecture-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logoColor=white" alt="ChromaDB" />
-</p>
 
 **Frontend & Backend**  
 <p align="left">
@@ -49,6 +43,14 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+
+**AI**  
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Architecture-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logoColor=white" alt="ChromaDB" />
 </p>
 
 **Tools**  
