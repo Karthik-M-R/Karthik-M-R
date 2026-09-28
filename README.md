@@ -71,15 +71,13 @@
   width="700"
 /> -->
 
-## Contact
-<p>
-  <a href="https://www.linkedin.com/in/karthik-mr-714558294/" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" height="40" src="https://skillicons.dev/icons?i=linkedin" />
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/karthik-m-r-714558294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karthikmr135@gmail.com">
-    <img alt="Gmail" height="40" src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-- 💼 LinkedIn: [karthik-mr-714558294](https://www.linkedin.com/in/karthik-m-r-714558294/)
-- 📧 Email: [karthikmr135@gmail.com](mailto:karthikmr135@gmail.com)
