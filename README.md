@@ -18,37 +18,47 @@
 
 ##  Languages,Tools & Technologies
 <p>
-  <img alt="JavaScript" height="40" src="https://skillicons.dev/icons?i=js" />
-  <img alt="TypeScript" height="40" src="https://skillicons.dev/icons?i=ts" />
-  <img alt="Python" height="40" src="https://skillicons.dev/icons?i=py" />
-  <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
+ ### 🛠️ Tech Stack & Tools
 
-  <img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql" />
-  <img alt="Supabase" height="40" src="https://skillicons.dev/icons?i=supabase" />
-  <img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
+**Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-  <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
-  
-  <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
-  <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
-  <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
- 
-  <img alt="Tailwind CSS" height="40" src="https://skillicons.dev/icons?i=tailwind" />
+**AI**  
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Architecture-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+</p>
 
+**Frontend & Backend**  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
- 
-  <img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman" />
-  <img alt="VS Code" height="40" src="https://skillicons.dev/icons?i=vscode" />
+**Databases**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-  <img alt="Git" height="40" src="https://skillicons.dev/icons?i=git" />
-  <img alt="GitHub" height="40" src="https://skillicons.dev/icons?i=github" />
-
-  <img alt="Vercel" height="40" src="https://skillicons.dev/icons?i=vercel" />
-  <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+**Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
 
 
