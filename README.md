@@ -28,13 +28,13 @@
   <img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
 
   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
-  <img alt="ChromaDB" height="40" src="https://skillicons.dev/icons?i=chromadb" />
+  
   <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
   <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
   <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  
   <img alt="Tailwind CSS" height="40" src="https://skillicons.dev/icons?i=tailwind" />
-  <img alt="LangChain RAG" height="40" src="https://skillicons.dev/icons?i=langchain" />
+
 
  
   <img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman" />
@@ -46,8 +46,9 @@
   <img alt="Vercel" height="40" src="https://skillicons.dev/icons?i=vercel" />
   <img alt="Render" height="40" src="https://skillicons.dev/icons?i=render" />
 
-
-  <img alt="OpenAI" height="40" src="https://skillicons.dev/icons?i=openai" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logoColor=white" alt="ChromaDB" />
 </p>
 
 
