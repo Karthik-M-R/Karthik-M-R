@@ -16,7 +16,6 @@
 
 
 
-
 ##  Languages,Tools & Technologies
 <p>
   <img alt="JavaScript" height="40" src="https://skillicons.dev/icons?i=js" />
@@ -29,11 +28,13 @@
   <img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
 
   <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="ChromaDB" height="40" src="https://skillicons.dev/icons?i=chromadb" />
   <img alt="Express" height="40" src="https://skillicons.dev/icons?i=express" />
   <img alt="React" height="40" src="https://skillicons.dev/icons?i=react" />
   <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  
   <img alt="Tailwind CSS" height="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img alt="LangChain RAG" height="40" src="https://skillicons.dev/icons?i=langchain" />
 
  
   <img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman" />
